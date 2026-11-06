@@ -34,7 +34,7 @@ Este serviço faz parte de uma arquitetura distribuída composta por 4 APIs inde
 * **DevOps & Ferramentas:**
   * **Docker & Docker Compose** (Orquestração de todo o ambiente local)
   * **Maven** (Gerenciamento de dependências e build)
-  * 
+    
 ---
 
 ## 📌 Endpoints Principais (Orquestrados)
