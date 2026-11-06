@@ -19,6 +19,8 @@ Este serviço faz parte de uma arquitetura distribuída composta por 4 APIs inde
 3. **[usuario](https://github.com/BrunoBehrmann/usuario-AT)**: Microsserviço de gerenciamento e cadastro de usuários.
 4. **[notificacao](https://github.com/BrunoBehrmann/notificacao-AT)**: Microsserviço dedicado ao disparo automatizado de e-mails.
 
+![Diagrama Agendador com BFF](Diagrama%20agendador%20com%20BFF.jpg)
+
 ---
 
 ## 🛠️ Tecnologias e Dependências
