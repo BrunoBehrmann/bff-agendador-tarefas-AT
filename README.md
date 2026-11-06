@@ -34,25 +34,7 @@ Este serviço faz parte de uma arquitetura distribuída composta por 4 APIs inde
 * **DevOps & Ferramentas:**
   * **Docker & Docker Compose** (Orquestração de todo o ambiente local)
   * **Maven** (Gerenciamento de dependências e build)
-
----
-
-## 🚀 Como Executar
-
-1. **Pré-requisitos:**
-   * Ter o [Docker](https://www.docker.com/) e o [Docker Compose](https://docs.docker.com/compose/) instalados.
-
-2. **Clonar o repositório:**
-   ```bash
-   git clone https://github.com/BrunoBehrmann/bff-agendador-tarefas.git
-   cd bff-agendador-tarefas
-   ```
-
-3. **Subir os containers:**
-   ```bash
-   docker-compose up --build
-   ```
-
+  * 
 ---
 
 ## 📌 Endpoints Principais (Orquestrados)
