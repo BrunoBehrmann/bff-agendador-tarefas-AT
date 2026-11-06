@@ -14,10 +14,10 @@ O **bff-agendador-tarefas** atua como o ponto de entrada único (Gateway / BFF) 
 
 Este serviço faz parte de uma arquitetura distribuída composta por 4 APIs independentes e containerizadas:
 
-1. **[bff-agendador-tarefas](https://github.com/BrunoBehrmann/bff-agendador-tarefas)** *(Este Repositório)*: Gateway / Orquestrador.
-2. **[agendador-tarefas](https://github.com/BrunoBehrmann/agendador-tarefas)**: Microsserviço de regras de negócio, persistência e execução de tarefas (Cron/Task).
-3. **[usuario](https://github.com/BrunoBehrmann/usuario)**: Microsserviço de gerenciamento e cadastro de usuários.
-4. **[notificacao](https://github.com/BrunoBehrmann/notificacao)**: Microsserviço dedicado ao disparo automatizado de e-mails.
+1. **[bff-agendador-tarefas](https://github.com/BrunoBehrmann/bff-agendador-tarefas-AT)** *(Este Repositório)*: Gateway / Orquestrador.
+2. **[agendador-tarefas](https://github.com/BrunoBehrmann/agendador-tarefas-AT)**: Microsserviço de regras de negócio, persistência e execução de tarefas (Cron/Task).
+3. **[usuario](https://github.com/BrunoBehrmann/usuario-AT)**: Microsserviço de gerenciamento e cadastro de usuários.
+4. **[notificacao](https://github.com/BrunoBehrmann/notificacao-AT)**: Microsserviço dedicado ao disparo automatizado de e-mails.
 
 ---
 
